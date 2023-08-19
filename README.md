@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @connleyfarquhar
-- 👀 I’m interested in Web Development, Software Development, Games Development & Videogames!
+- 👀 I’m interested in Web Development, Software Development, Games Development, Videogames & Daft Punk!
 - 🌱 I’m currently studying Software Development
 - 💞️ I’m looking to collaborate on Anything that seems fun :)
 
