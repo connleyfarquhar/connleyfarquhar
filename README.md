@@ -1,6 +1,6 @@
 ## Hi there 👋
 📚 Currently a Software Development Student at Dundee & Angus College             
-⚡Outside of college i enjoy creating websites and exploring web development, whilst learning new ways to use HTML, CSS, and PHP effectively.
+⚡Outside of college i enjoy creating websites and exploring web development, whilst learning new ways to use HTML, CSS, and PHP
 
 <!--
 **connleyfarquhar/connleyfarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
