@@ -5,8 +5,8 @@
 🎧 Also, somewhat of a Daft Punk fanatic!     
 
 Currently i am working on continual improvements on recently finished projects whilst researching into learning:     
-- C++
-- Typescript        
+- **C++**
+- **Typescript**        
 <!--
 **connleyfarquhar/connleyfarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
