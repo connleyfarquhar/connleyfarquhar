@@ -4,7 +4,7 @@
 
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
 
-Currently i am working on continual improvements on recently finished projects whilst researching into learning:     
+Currently i am focused on continuous improvements to recently completed projects whilst also dedicating time to research and learn:     
 - **C++**
 - **Typescript**        
 <!--
