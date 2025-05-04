@@ -1,5 +1,5 @@
 ## Hi there 👋
-📚 Currently a Software Development Student at Dundee & Angus College             
+📚 Software Development Student at Dundee & Angus College & Abertay University             
 ⚡ Outside of college I enjoy creating websites and exploring Web Development, whilst learning new ways to use HTML, CSS, and PHP        
 
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
