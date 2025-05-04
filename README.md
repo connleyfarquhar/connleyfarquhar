@@ -2,7 +2,7 @@
 📚 Currently a Software Development Student at Dundee & Angus College             
 ⚡ Outside of college I enjoy creating websites and exploring Web Development, whilst learning new ways to use HTML, CSS, and PHP        
 
-🎧 Also, somewhat of a Daft Punk fanatic!     
+###### 🎧 Also, somewhat of a Daft Punk fanatic!     
 
 Currently i am working on continual improvements on recently finished projects whilst researching into learning:     
 - **C++**
