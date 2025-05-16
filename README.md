@@ -1,6 +1,6 @@
 ## Hi there 👋
 📚 Software Development Student at Dundee & Angus College & Abertay University             
-⚡ In my free time, I enjoy creating websites and exploring Web Development, whilst learning new ways to use HTML, CSS, PHP & SQL!    
+⚡ In my free time, I enjoy creating websites and exploring Web Development, whilst learning new ways to use HTML, CSS, PHP & SQL.    
 
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
 
