@@ -8,7 +8,6 @@ Currently i am focused on continuous improvements to recently completed projects
 - **SheetLess, A Digital Traveller Solution**
           
 Also dedicating time to research and learn:     
-- **C++**
 - **Typescript**        
 <!--
 **connleyfarquhar/connleyfarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
