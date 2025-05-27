@@ -10,6 +10,7 @@ Currently i am focused on continuous improvements to recently completed projects
 Also dedicating time to research:    
 - **C++**
 - **React**
+- **Supabase**
         
 <!--
 **connleyfarquhar/connleyfarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
