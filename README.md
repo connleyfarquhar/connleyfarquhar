@@ -7,8 +7,9 @@
 Currently i am focused on continuous improvements to recently completed projects whilst also spending time on: 
 - **SheetLess, A Digital Traveller Solution**
           
-Also dedicating time to research and learn:    
+Also dedicating time to research:    
 - **C++**
+- **React**
         
 <!--
 **connleyfarquhar/connleyfarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
