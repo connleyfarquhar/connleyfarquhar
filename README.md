@@ -8,7 +8,6 @@ Currently i am focused on continuous improvements to recently completed projects
 - **SheetLess, A Digital Traveller Solution**
           
 Also dedicating time to research:    
-- **C++**
 - **React**
 - **Supabase**
         
