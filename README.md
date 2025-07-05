@@ -1,11 +1,11 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/7ea0e205-6a61-45b8-b6c0-7ea7e8e1f481)## Hi there 👋
 📚 Software Development Student @ Abertay University in BSc (Hons) Computing!    
 ⚡ In my free time, I enjoy creating websites and exploring Web Development, whilst learning new ways to use HTML, CSS, PHP & SQL.    
 
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
 
 Currently i am focused on continuous improvements to recently completed projects whilst also spending time on: 
-- Not working on any active projects.
+- **Not working on any active projects.**
           
 Also dedicating time to research:    
 - **React**
