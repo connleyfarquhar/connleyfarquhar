@@ -5,7 +5,7 @@
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
 
 Currently i am focused on continuous improvements to recently completed projects whilst also spending time on: 
-- **Not working on any active projects.**
+
           
 Also dedicating time to research:    
 - **React**
