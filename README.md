@@ -5,9 +5,9 @@
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
 
 Currently i am focused on continuous improvements to recently completed projects whilst also spending time on:        
-         
+- **C++**    
                  
-Also dedicating time to research:    
+Also in my spare time i will be dedicating time to research:    
 - **React**
 - **Supabase**
         
