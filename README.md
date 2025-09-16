@@ -5,11 +5,8 @@
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
 
 Currently i am focused on continuous improvements to recently completed projects whilst also spending time on:        
-- **C++**    
-                 
-Also in my spare time i am dedicating time to research:    
 - **React**
-- **Supabase**
+- **Supabase** 
         
 <!--
 **connleyfarquhar/connleyfarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
