@@ -3,10 +3,6 @@
 ⚡ In my free time, I enjoy creating websites and exploring Web Development, whilst learning new ways to use HTML, CSS, PHP & SQL.    
 
 ###### 🎧 Also, somewhat of a Daft Punk fanatic!     
-
-Currently i am focused on continuous improvements to recently completed projects whilst also spending time on:        
-- **React**
-- **Supabase** 
         
 <!--
 **connleyfarquhar/connleyfarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
